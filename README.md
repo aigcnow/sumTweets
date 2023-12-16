@@ -1,6 +1,6 @@
 # sumTweets
 
-[![Main Workflow](https://github.com/etrobot/sumTweets/actions/workflows/main.yml/badge.svg)](https://github.com/etrobot/sumTweets/actions/workflows/main.yml)
+[![Main Workflow](https://github.com/aigcnow/sumTweets/actions/workflows/main.yml/badge.svg)](https://github.com/aigcnow/sumTweets/actions/workflows/main.yml)
 
 这是一个定时抓取推特合集和账号信息通过AI总结并发生邮件的脚本。
 
