@@ -168,5 +168,5 @@ def resendTweets(length:int = 10000,mail=True,render=True):
     return result
 
 if __name__=='__main__':
-    # sumTweets(os.environ.get('PROMPT',''),mail=True,render=True)
+    #sumTweets(os.environ.get('PROMPT',''),mail=True,render=True)
     resendTweets(mail=True,render=True)
