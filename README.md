@@ -16,7 +16,9 @@ MAIL="*********@163.com"
 SMTP="smtp.163.com"
 MAILPWD="*********"
 NITTER="n.biendeo.com"
+#抓取推特间隔的分钟数，获取MINS之内的推特信息，即20分钟内没有新推的话，就无法触发。
 MINS=20
+#目标推特/list
 TARGET='i/lists/1733652180576686386;elonmusk'
 INFO='AI/人工智能'
 ```
