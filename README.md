@@ -3,7 +3,7 @@
 
 [![Main Workflow](https://github.com/aigcnow/sumTweets/actions/workflows/main.yml/badge.svg)](https://github.com/aigcnow/sumTweets/actions/workflows/main.yml)
 
-这是一个定时抓取推特合集和账号信息通过AI总结并发生邮件的脚本。
+这是一个定时抓取推特合集和账号信息通过AI总结并发送邮件的脚本。
 
 数据来源为推特第三方前端[nitter](https://github.com/zedeus/nitter)，访问[https://status.d420.de/](https://status.d420.de/)查看twitter抓取源站点状态
 
