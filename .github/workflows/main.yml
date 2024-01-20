@@ -2,7 +2,7 @@ name: Main Workflow
 
 on:
   schedule:
-    - cron: '*/480 * * * *'
+    - cron: '*/120 * * * *'
 
 jobs:
   build:
