@@ -2,7 +2,7 @@ name: Main Workflow
 
 on:
   schedule:
-    - cron: '* */24 * * *'  #"分 时/3 日 月 星期" */3 每3个*，执行一次
+    - cron: '* * 0/24 * *'  #"分 时/3 日 月 星期" */3 每3个*，执行一次
 
 jobs:
   build:
